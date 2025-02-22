@@ -19,7 +19,7 @@ Bu proje, videoların özetini oluşturan bir sistem oluşturmayı amaçlamaktad
 
 
 #### KURULUM 
-Projeyi kullanabilmek için aşağıdaki paketleri yüklemeniz gerekmektedir (Direkt olarak komutu çalıştırabilirsiniz.). Ayrıca paylaşılan dosyayı da kurmanız gerekmektedir.
+Projeyi kullanabilmek için aşağıdaki paketleri yüklemeniz gerekmektedir (Direkt olarak komutu çalıştırabilirsiniz.). Ayrıca ffmpeg programını da bilgisayarınıza kurmanız gerekmektedir.
 
 !pip install openai-whisper moviepy pydub pillow pytesseract opencv-python 
 
